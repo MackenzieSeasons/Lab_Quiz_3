@@ -1,0 +1,35 @@
+---
+title: "Lab Quiz 6 Markdown"
+author: "Mackenzie Seasons"
+date: '2016-11-01'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1
+
+The difference between the A1C1 correlation and the E1O1 correlation was $\Delta r$ = -.01, 95% CI [-.11, .09], *p* = .84, *N* = 777. The CI suggests that the difference correlation could lie anywhere between -.11 and .09, and is consistent with anywhere from a weak negative relationship to a weak positive relationship.
+
+# Question 2
+The difference between the A1C1 correlation and the A1E1 was $\Delta r$ = -.08, 95% CI [-.18, .02], *p* = .13, *N* = 777. The CI suggests that the relationship between the two variables could be one that ranges from weak negative to weak positive.
+
+# Question 3
+The correlation difference for men compared women on the A1E1 correlation was $\Delta r$ = .02, 95% CI [-.13, .17], *p* = .82, *N* = 777. he CI suggests that the relationship between the two variables could be one that ranges from weak negative to weak positive.
+
+
+# Question 4
+The rating-raises correlation differs from the rating-critical correlation by $\Delta r$ = .43, 95% CI [.07, .80], *p* = .03, *N* = 30. This implies that there is a moderately positive difference between rating-raises and rating-critical, and the narrow CI supports this.
+
+# Question 5
+The rating-raises correlation differs from the complaints-critical correlation by $\Delta r$ = .4, 95% CI [.01, .80], *p* = .04, *N* = 30. This is a small difference, and the long CI implies that the difference could be anywhere between .01 and .08. We can infer that there is a weak positive relationship.
+
+# Question 6
+The difference between our rating-raises correlation and the new study is $\Delta r$ = .56, 95% CI [.26, .76], *p* = .00. This is a moderate difference, but the long CI implies that the difference could range from a weak to a strong difference relationship between the two studies.
+
+# Question 7
+We can conclude that there is a positive relationship for the rating-raises correlation based on the two studies, but we cannot conclude the strength of that relationship. We would rely on the correlation from Study 2, because the bigger *N* will be a better indication of the correlation.  
+
+
